@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ilikehamm
 - 👀 I’m interested in climate change and green energy.
-- 🌱 I’m currently learning how to code in python.
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning how to code in python, html, css, and javascript.
 - 📫 How to reach me at hamm.grace@gmail.com
 
 <!---
